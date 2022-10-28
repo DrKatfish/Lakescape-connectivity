@@ -1,0 +1,269 @@
+Region,Site,Habitat,Type,Group,Taxon,d13C,d15N
+East,BH,NS,Invertebrate,NS Invertebrates,Chironomidae,-15.27330706,9.179
+East,BH,NS,Invertebrate,NS Invertebrates,Chironomidae,-14.76347153,8.731
+East,BH,NS,Prey Fish,NS Alewife,Alewife,-23.96530308,8.001
+East,BH,NS,Prey Fish,NS Alewife,Alewife,-23.40593557,8.747
+East,BH,NS,Prey Fish,NS Alewife,Alewife,-23.76452317,9.009
+East,BH,NS,Prey Fish,NS Shiner,Spottail shiner,-19.17228938,8.96
+East,BH,NS,Prey Fish,NS Shiner,Spottail shiner,-18.00173227,8.793
+East,BH,NS,Prey Fish,NS Shiner,Spottail shiner,-19.80454089,8.492
+South,BH,NS,Prey Fish,NS Shiner,Spottail shiner,-18.96239389,9.301
+South,BH,NS,Prey Fish,NS Shiner,Spottail shiner,-19.64491854,8.777
+South,BH,WL,Invertebrate,WL Invertebrates,Amphipoda,-24.87979662,11.548
+South,BH,WL,Invertebrate,WL Invertebrates,Amphipoda,-25.63360103,7.803
+South,BH,WL,Invertebrate,WL Invertebrates,Chironomidae,-31.43908334,8.911
+South,BH,WL,Invertebrate,WL Invertebrates,Chironomidae,-30.94360938,8.217
+West,BH,WL,Invertebrate,WL Invertebrates,Crayfish,-25.92884047,8.262
+West,BH,WL,Invertebrate,WL Invertebrates,Isopoda,-23.32406737,12.384
+West,BH,WL,Invertebrate,WL Invertebrates,Isopoda,-23.71351501,9.77
+West,BH,WL,Invertebrate,WL Invertebrates,Gastropoda,-23.71229685,6.501
+West,BH,WL,Prey Fish,WL Prey Fish,Bluegill,-28.235232,11.523
+West,BH,WL,Prey Fish,WL Prey Fish,Bluegill,-28.10743462,12.414
+East,BH,WL,Prey Fish,WL Prey Fish,Bluegill,-30.33314814,9.85
+East,BH,WL,Prey Fish,WL Prey Fish,Bluegill,-27.63797583,11.678
+East,BH,WL,Prey Fish,WL Prey Fish,Bluegill,-27.01513492,11.322
+East,BH,WL,Prey Fish,WL Prey Fish,Bluntnose minnow,-24.27727645,7.596
+East,BH,WL,Prey Fish,WL Prey Fish,Golden shiner,-26.80850833,9.376
+East,BH,WL,Prey Fish,WL Prey Fish,Golden shiner,-28.11561034,11.482
+East,BH,WL,Seston,WL Seston,50,-21.80042472,3.392
+East,BH,WL,Seston,WL Seston,160,-21.6528766,2.544
+East,BH,WL,Seston,WL Seston,250,-17.26562585,1.872
+East,CA,NS,Invertebrate,NS Invertebrates,Amphipodaa,-18.14738108,2.222
+East,CA,NS,Invertebrate,NS Invertebrates,Chironomidae,-14.52289019,5.976
+East,CA,NS,Invertebrate,NS Invertebrates,Chironomidae,-15.40502657,5.433
+East,CA,NS,Invertebrate,NS Invertebrates,Dreissenid,-23.21702452,2.659
+East,CA,NS,Prey Fish,NS Alewife,Alewife,-22.729,7.582
+East,CA,NS,Prey Fish,NS Alewife,Alewife,-22.356,8.582
+East,CA,NS,Prey Fish,NS Alewife,Alewife,-22.007,8.454
+East,CA,NS,Prey Fish,NS Alewife,Alewife,-21.993,7.656
+East,CA,NS,Prey Fish,NS Shiner,Spottail shiner,-18.804,9.098
+East,CA,NS,Prey Fish,NS Shiner,Spottail shiner,-18.424,9.539
+East,CA,NS,Prey Fish,NS Shiner,Spottail shiner,-18.921,9.628
+East,CA,NS,Prey Fish,NS Shiner,Spottail shiner,-19.424,8.897
+East,CA,NS,Prey Fish,NS Shiner,Spottail shiner,-18.527,8.38
+East,CA,NS,Prey Fish,NS Shiner,Spottail shiner,-19.349,9.42
+East,CA,NS,Seston,NS Seston,50,-19.3798899,1.423
+East,CA,NS,Seston,NS Seston,160,-26.87107015,4.361
+East,CA,NS,Seston,NS Seston,250,-27.0617867,4.632
+East,CA,NS,Seston,NS Seston,250,-22.99019422,10.636
+East,CA,WL,Invertebrate,WL Phrag Inverts,Amphipoda,-22.95849136,14.215
+East,CA,WL,Invertebrate,WL Phrag Inverts,Amphipoda,-23.49081876,14.603
+East,CA,WL,Invertebrate,WL Phrag Inverts,Chironomidae,-26.49171225,13.274
+East,CA,WL,Invertebrate,WL Phrag Inverts,Chironomidae,-27.2308713,16.548
+East,CA,WL,Invertebrate,WL Phrag Inverts,Dreissenidae,-24.60246086,11.275
+East,CA,WL,Invertebrate,WL Phrag Inverts,Odonata,-24.78538923,14.995
+East,CA,WL,Invertebrate,WL Phrag Inverts,Gastropoda,-25.23379911,15.109
+East,CA,WL,Invertebrate,WL SAV Invertebrates,Amphipoda,-18.66685088,8.447
+East,CA,WL,Invertebrate,WL SAV Invertebrates,Amphipoda,-16.67365529,10.041
+East,CA,WL,Invertebrate,WL SAV Invertebrates,Chironomidae,-17.91160831,10.343
+South,CA,WL,Invertebrate,WL SAV Invertebrates,Odonata,-21.97519144,13.201
+South,CA,WL,Invertebrate,WL SAV Invertebrates,Dreissenidae,-19.87630659,9.288
+South,CA,WL,Invertebrate,WL SAV Invertebrates,Dreissenidae,-18.72030547,11.393
+South,CA,WL,Invertebrate,WL SAV Invertebrates,Ephemeroptera,-20.32255703,9.299
+South,CA,WL,Invertebrate,WL SAV Invertebrates,Ephemeroptera,-18.63603506,10.073
+South,CA,WL,Invertebrate,WL SAV Invertebrates,Lepidoptera,-14.65587165,12.775
+South,CA,WL,Invertebrate,WL SAV Invertebrates,Mites,-20.31184554,14.166
+South,CA,WL,Invertebrate,WL SAV Invertebrates,Odonata,-19.29756875,12.641
+West,CA,WL,Invertebrate,WL SAV Invertebrates,Gastropoda,-23.29665921,11.741
+West,CA,WL,Invertebrate,WL SAV Invertebrates,Gastropoda,-17.9888412,11.248
+West,CA,WL,Invertebrate,WL SAV Invertebrates,Trichoptera,-15.23888869,11.02
+West,CA,WL,Prey Fish,WL Alewife,Alewife,-23.1909711,12.729
+West,CA,WL,Prey Fish,WL Alewife,Alewife,-23.13446903,12.889
+West,CA,WL,Prey Fish,WL Alewife,Alewife,-24.64149311,12.866
+West,CA,WL,Prey Fish,WL Alewife,Alewife,-23.13317096,11.365
+West,CA,WL,Prey Fish,WL Alewife,Alewife,-24.07797744,13.792
+West,CA,WL,Prey Fish,WL Alewife,Alewife,-23.60554052,11.865
+West,CA,WL,Prey Fish,WL Shiner,Banded killifish,-20.945619,16.934
+West,CA,WL,Prey Fish,WL Shiner,Banded killifish,-19.58272948,17.179
+West,CA,WL,Prey Fish,WL Shiner,Banded killifish,-19.58764609,17.112
+West,CA,WL,Prey Fish,WL Shiner,Banded killifish,-18.70166173,15.18
+West,CA,WL,Prey Fish,WL Shiner,Banded killifish,-21.00436545,15.54
+West,CA,WL,Prey Fish,WL Shiner,Banded killifish,-18.26425548,18.081
+West,CA,WL,Prey Fish,WL Shiner,Banded killifish,-17.10598808,16.624
+West,CA,WL,Prey Fish,WL Shiner,Banded killifish,-18.2263679,17.13
+West,CA,WL,Prey Fish,WL Shiner,Banded killifish,-19.58397968,16.067
+West,CA,WL,Prey Fish,WL Shiner,Bluegill,-20.46242595,16.218
+West,CA,WL,Prey Fish,WL Shiner,Bluntnose minnow,-20.20730714,15.439
+West,CA,WL,Prey Fish,WL Shiner,Bluntnose minnow,-20.60358111,14.672
+West,CA,WL,Prey Fish,WL Shiner,Golden shiner,-21.37308597,15.268
+West,CA,WL,Prey Fish,WL Shiner,Mimic shiner,-20.6162047,16.019
+West,CA,WL,Prey Fish,WL Shiner,Mimic shiner,-19.98528783,16.231
+West,CA,WL,Prey Fish,WL Shiner,Pumpkinseed,-16.36114104,14.105
+West,CA,WL,Seston,WL Seston,50,-18.07495377,14.804
+East,CA,WL,Seston,WL Seston,50,-21.10704532,12.14
+East,CA,WL,Seston,WL Seston,160,-22.52236922,13.012
+East,CA,WL,Seston,WL Seston,250,-24.7777275,13.855
+East,CA,WL,Seston,WL Seston,160,-19.90606483,13.238
+East,CA,WL,Seston,WL Seston,50,-22.03442467,12.226
+East,CA,WL,Seston,WL Seston,160,-23.02743449,12.608
+East,CA,WL,Seston,WL Seston,250,-24.24977443,13.008
+East,CR,NS,Invertebrate,NS Invertebrates,Chironomidae,-18.26379699,5.249
+East,CR,NS,Invertebrate,NS Invertebrates,Chironomidae,-19.18968006,3.566
+East,CR,NS,Invertebrate,NS Invertebrates,Isopodaa,-17.96313101,3.883
+South,CR,NS,Invertebrate,NS Invertebrates,Isopodaa,-11.69308598,5.046
+South,CR,NS,Prey Fish,NS Alewife,Alewife,-22.72663911,9.168
+South,CR,NS,Prey Fish,NS Alewife,Alewife,-23.76686548,9.344
+South,CR,NS,Prey Fish,NS Alewife,Alewife,-23.58991823,8.796
+South,CR,NS,Prey Fish,NS Alewife,Alewife,-23.689,8.796
+South,CR,NS,Prey Fish,NS Alewife,Alewife,-22.699,9.168
+South,CR,NS,Prey Fish,NS Alewife,Alewife,-23.605,9.344
+South,CR,NS,Prey Fish,NS Round Goby,Round goby,-21.5990194,9.75
+South,CR,NS,Prey Fish,NS Round Goby,Round goby,-21.3656642,10.115
+South,CR,NS,Prey Fish,NS Round Goby,Round goby,-21.476,9.75
+South,CR,NS,Prey Fish,NS Round Goby,Round goby,-21.21,10.115
+South,CR,WL,Invertebrate,WL Invertebrates,Amphipoda,-27.20872182,7.926
+South,CR,WL,Invertebrate,WL Invertebrates,Amphipoda,-26.729205,12.357
+South,CR,WL,Invertebrate,WL Invertebrates,Amphipoda,-17.29270778,2.618
+South,CR,WL,Invertebrate,WL Invertebrates,Amphipoda,-28.42818788,6.058
+South,CR,WL,Invertebrate,WL Invertebrates,Chironomidae,-30.51006059,5.663
+South,CR,WL,Invertebrate,WL Invertebrates,Chironomidae,-33.16075386,6.076
+South,CR,WL,Invertebrate,WL Invertebrates,Chironomidae,-28.46914232,4.93
+South,CR,WL,Invertebrate,WL Invertebrates,Hemiptera,-30.02148727,6.042
+South,CR,WL,Invertebrate,WL Invertebrates,Isopoda,-27.01919266,8.326
+South,CR,WL,Invertebrate,WL Invertebrates,Isopoda,-28.83547127,5.521
+South,CR,WL,Invertebrate,WL Invertebrates,Gastropoda,-28.82023034,6.667
+South,CR,WL,Invertebrate,WL Invertebrates,Gastropoda,-28.36331587,5.442
+South,CR,WL,Invertebrate,WL Invertebrates,Trichoptera,-30.9706314,6.155
+South,CR,WL,Prey Fish,WL Prey Fish,Common shiner,-26.54492698,8.765
+South,CR,WL,Prey Fish,WL Prey Fish,Common shiner,-28.05064115,9.862
+South,CR,WL,Prey Fish,WL Prey Fish,Common shiner,-28.30930732,9.398
+South,CR,WL,Prey Fish,WL Prey Fish,Pumpkinseed,-29.62835697,9.298
+South,LS,NS,Invertebrate,NS Invertebrates,Chironomidae,-27.45208818,2.386
+South,LS,NS,Invertebrate,NS Invertebrates,Chironomidae,-23.01383741,5.02
+West,LS,NS,Prey Fish,NS Prey Fish,Alewife,-24.72489091,10.71
+West,LS,NS,Prey Fish,NS Prey Fish,Alewife,-24.42444537,9.805
+West,LS,NS,Prey Fish,NS Prey Fish,Round goby,-20.35497129,11.142
+West,LS,NS,Prey Fish,NS Prey Fish,Round goby,-22.6566301,10.836
+West,LS,WL,Invertebrate,WL Invertebrates,Amphipoda,-25.42626342,4.279
+West,LS,WL,Invertebrate,WL Invertebrates,Amphipoda,-29.7225674,6.053
+West,LS,WL,Invertebrate,WL Invertebrates,Amphipoda,-27.65119187,5.498
+West,LS,WL,Invertebrate,WL Invertebrates,Chironomidae,-29.05989437,5.287
+West,LS,WL,Invertebrate,WL Invertebrates,Ephemeroptera,-36.05815012,4.495
+West,LS,WL,Invertebrate,WL Invertebrates,Hemiptera,-29.63843095,7.325
+West,LS,WL,Invertebrate,WL Invertebrates,Hemiptera,-34.01630689,7.571
+East,LS,WL,Invertebrate,WL Invertebrates,Isopoda,-31.16748524,5.365
+East,LS,WL,Invertebrate,WL Invertebrates,Isopoda,-26.90656483,5.073
+East,LS,WL,Invertebrate,WL Invertebrates,Isopoda,-27.13301176,5.366
+East,LS,WL,Prey Fish,WL Prey Fish,Pumpkinseed,-25.80858315,10.87
+East,LS,WL,Prey Fish,WL Prey Fish,Pumpkinseed,-25.39230118,10.613
+East,LS,WL,Prey Fish,WL Prey Fish,Pumpkinseed,-28.92708479,10.736
+East,LS,WL,Prey Fish,WL Prey Fish,Round goby,-29.40097899,10.046
+East,LS,WL,Prey Fish,WL Prey Fish,Round goby,-30.8166055,10.357
+East,MU,DRM,Invertebrate,DRM Invertebrates,Amphipoda,-26.39027747,7.399
+East,MU,DRM,Invertebrate,DRM Invertebrates,Chironomidae,-26.94184708,9.157
+South,MU,DRM,Invertebrate,DRM Invertebrates,Dreissenidae,-29.45563332,10.447
+South,MU,DRM,Invertebrate,DRM Invertebrates,Mites,-28.45846353,10.228
+South,MU,DRM,Invertebrate,DRM Invertebrates,Gastropoda,-27.01990813,8.19
+South,MU,DRM,Prey Fish,DRM Shiner,Spottail shiner,-31.902,11.916
+South,MU,DRM,Prey Fish,DRM Shiner,Spottail shiner,-23.552,10.779
+South,MU,DRM,Prey Fish,DRM Shiner,Spottail shiner,-29.983,11.523
+South,MU,DRM,Seston,DRM Seston,50,-28.05710813,7.42
+South,MU,DRM,Seston,DRM Seston,160,-29.25165201,7.739
+South,MU,DRM,Seston,DRM Seston,250,-29.3772278,11.248
+South,MU,NS,Invertebrate,NS Invertebrates,Chironomidae,-21.10247898,9.049
+South,MU,NS,Invertebrate,NS Invertebrates,Dreissenid,-26.95990454,5.1
+South,MU,NS,Invertebrate,NS Invertebrates,Sphaeriidae,-21.97142337,5.778
+South,MU,NS,Prey Fish,NS Shiner,Spottail shiner,-21.53714761,10.381
+South,MU,NS,Prey Fish,NS Shiner,Spottail shiner,-20.12216612,10.36
+South,MU,NS,Prey Fish,NS Shiner,Spottail shiner,-24.43493513,12.039
+South,MU,NS,Seston,NS Seston,50,-23.27960223,2.679
+South,MU,NS,Seston,NS Seston,160,-24.20947439,3.609
+South,MU,NS,Seston,NS Seston,250,-24.49613878,3.901
+West,MU,WL,Invertebrate,WL Invertebrates,Amphipoda,-24.16875947,12.586
+West,MU,WL,Invertebrate,WL Invertebrates,Amphipoda,-23.44852436,11.433
+West,MU,WL,Invertebrate,WL Invertebrates,Amphipoda,-23.42953387,7.949
+West,MU,WL,Invertebrate,WL Invertebrates,Chironomidae,-26.75507481,9.307
+West,MU,WL,Invertebrate,WL Invertebrates,Chironomidae,-25.63247544,8.439
+West,MU,WL,Invertebrate,WL Invertebrates,Chironomidae,-25.72877855,9.158
+West,MU,WL,Invertebrate,WL Invertebrates,Crayfish,-24.27209293,9.62
+West,MU,WL,Invertebrate,WL Invertebrates,Crayfish,-26.31006029,8.506
+West,MU,WL,Invertebrate,WL Invertebrates,Crayfish,-25.46286431,8.623
+West,MU,WL,Invertebrate,WL Invertebrates,Dreissenid,-29.28557086,8.16
+West,MU,WL,Invertebrate,WL Invertebrates,Ephemeroptera,-29.84045885,7.247
+West,MU,WL,Invertebrate,WL Invertebrates,Ephemeroptera,-27.52657474,8.13
+West,MU,WL,Invertebrate,WL Invertebrates,Ephemeroptera,-26.99976757,6.617
+West,MU,WL,Invertebrate,WL Invertebrates,Isopoda,-24.68191823,7.756
+West,MU,WL,Invertebrate,WL Invertebrates,Isopoda,-25.79986333,7.587
+West,MU,WL,Invertebrate,WL Invertebrates,Isopoda,-24.51546024,7.7
+East,MU,WL,Invertebrate,WL Invertebrates,Gastropoda,-26.82920958,9.21
+East,MU,WL,Invertebrate,WL Invertebrates,Gastropoda,-25.86886019,11.256
+East,MU,WL,Invertebrate,WL Invertebrates,Trichoptera,-30.66482173,9.225
+East,MU,WL,Prey Fish,WL Shiner,Spottail shiner ,-27.52820761,10.245
+East,MU,WL,Prey Fish,WL Shiner,Spottail shiner ,-28.73680012,10.672
+East,MU,WL,Seston,WL Seston,50,-9.074179089,3.552
+South,MU,WL,Seston,WL Seston,50,-12.33330808,4.54
+South,MU,WL,Seston,WL Seston,160,-11.41961191,3.264
+South,MU,WL,Seston,WL Seston,160,-13.65753082,4.641
+East,MU,WL,Seston,WL Seston,250,-12.57941549,4.2
+East,MU,WL,Seston,WL Seston,250,-12.08298928,3.661
+East,PE,NS,Prey Fish,NS Alewife,Alewife,-23.443,10.666
+East,PE,NS,Prey Fish,NS Alewife,Alewife,-24.608,11.491
+East,PE,WL,Invertebrate,WL Invertebrates,Coleoptera larvae,-28.03010167,7.659
+East,PE,WL,Invertebrate,WL Invertebrates,Isopoda,-26.71358197,6.776
+East,PE,WL,Invertebrate,WL Invertebrates,Isopoda,-28.3731698,3.63
+East,PE,WL,Prey Fish,WL Pumpkinseed,Pumpkinseed,-30.614,9.616
+East,PE,WL,Prey Fish,WL Pumpkinseed,Pumpkinseed,-30.753,10.009
+East,PE,WL,Prey Fish,WL Small Perch,Yellow perch,-28.2,11.6
+East,PE,WL,Prey Fish,WL Small Perch,Yellow perch,-27.9,12.3
+East,PE,WL,Prey Fish,WL Small Perch,Yellow perch,-27.9,11.9
+East,PE,WL,Prey Fish,WL Small Perch,Yellow perch,-28.883,11.497
+East,PE,WL,Prey Fish,WL Small Perch,Yellow perch,-29.914,10.98
+East,PE,WL,Prey Fish,WL Small Perch,Yellow perch,-24.925,12.28
+East,PE,WL,Prey Fish,WL Small Perch,Yellow perch,-26.076,11.406
+East,PW,DRM,Invertebrate,DRM Invertebrates,Amphipoda,-27.76489618,6.932
+East,PW,DRM,Invertebrate,DRM Invertebrates,Chaoborous,-29.10472512,9.67
+East,PW,DRM,Invertebrate,DRM Invertebrates,Chironomidae,-29.07605378,7.219
+East,PW,DRM,Invertebrate,DRM Invertebrates,Chironomidae,-39.91959707,3.926
+East,PW,DRM,Invertebrate,DRM Invertebrates,Dreissenidae,-31.6788334,7.687
+West,PW,DRM,Invertebrate,DRM Invertebrates,Mites,-29.81653496,10.735
+West,PW,DRM,Invertebrate,DRM Invertebrates,Trichoptera,-25.03867401,7.623
+West,PW,DRM,Prey Fish,DRM YOY Perch,Yellow perch,-32.73,12.95
+West,PW,DRM,Prey Fish,DRM YOY Perch,Yellow perch,-32.884,11.601
+West,PW,DRM,Prey Fish,DRM YOY Perch,Yellow perch,-32.477,13.122
+West,PW,DRM,Seston,DRM Seston,50,-28.09,2.858
+West,PW,DRM,Seston,DRM Seston,160,-34.98,9.013
+South,PW,DRM,Seston,DRM Seston,250,-34.833,7.584
+South,PW,NS,Invertebrate,NS Invertebrates,Chironomidae,-18.2789085,4.48
+South,PW,NS,Invertebrate,NS Invertebrates,Chironomidae,-19.25017955,2.644
+South,PW,NS,Invertebrate,NS Invertebrates,Chironomidae,-19.49784432,3.051
+South,PW,NS,Invertebrate,NS Invertebrates,Chironomidae,-20.14106474,2.689
+South,PW,NS,Invertebrate,NS Invertebrates,Gastropoda,-19.20985875,2.729
+South,PW,NS,Prey Fish,NS Shiner,Spottail shiner,-22.90443947,9.038
+South,PW,NS,Prey Fish,NS Shiner,Spottail shiner,-21.20847917,9.145
+South,PW,NS,Prey Fish,NS Shiner,Spottail shiner,-21.1721437,9.548
+South,PW,NS,Prey Fish,NS Shiner,Spottail shiner,-20.25971469,8.528
+South,PW,NS,Prey Fish,NS Shiner,Spottail shiner,-20.30490355,8.786
+South,PW,NS,Prey Fish,NS Shiner,Spottail shiner,-19.93075628,8.989
+South,PW,NS,Prey Fish,NS Shiner,Spottail shiner,-24.24306445,10.131
+South,PW,NS,Seston,NS Seston,50,-15.06868926,5.709
+South,PW,NS,Seston,NS Seston,160,-22.49899477,3.073
+South,PW,NS,Seston,NS Seston,250,-23.75256964,4.297
+South,PW,WL,Invertebrate,WL Invertebrates,Amphipoda,-25.37604202,9.724
+South,PW,WL,Invertebrate,WL Invertebrates,Amphipoda,-24.01283022,7.227
+South,PW,WL,Invertebrate,WL Invertebrates,Chironomidae,-31.06226176,7.141
+South,PW,WL,Invertebrate,WL Invertebrates,Chironomidae,-33.33265796,5.712
+South,PW,WL,Invertebrate,WL Invertebrates,Chironomidae,-28.64518561,9.993
+East,PW,WL,Invertebrate,WL Invertebrates,Chironomidae,-26.64856596,9.012
+East,PW,WL,Invertebrate,WL Invertebrates,Crayfish,-24.02931868,8.747
+East,PW,WL,Invertebrate,WL Invertebrates,Dreissenid,-30.84426946,7.044
+East,PW,WL,Invertebrate,WL Invertebrates,Dreissenid,-29.06216949,7.99
+East,PW,WL,Invertebrate,WL Invertebrates,Isopoda,-27.77094352,6.997
+East,PW,WL,Invertebrate,WL Invertebrates,Isopoda,-26.84542931,8.51
+East,PW,WL,Invertebrate,WL Invertebrates,Isopoda,-25.2049051,7.644
+East,PW,WL,Invertebrate,WL Invertebrates,Gastropoda,-27.8258585,6.99
+East,PW,WL,Invertebrate,WL Invertebrates,Gastropoda,-27.84611695,8.495
+East,PW,WL,Invertebrate,WL Invertebrates,Gastropoda,-27.83157756,9.136
+East,PW,WL,Invertebrate,WL Invertebrates,Gastropoda,-26.31384315,9.987
+East,PW,WL,Invertebrate,WL Invertebrates,Trichoptera,-28.5310737,8.397
+South,PW,WL,Invertebrate,WL Invertebrates,Trichoptera,-23.69555183,9.265
+South,PW,WL,Prey Fish,WL Alewife,Alewife,-23.8060068,8.864
+South,PW,WL,Prey Fish,WL Alewife,Alewife,-23.58488053,8.621
+South,PW,WL,Prey Fish,WL Alewife,Alewife,-25.14626947,8.82
+South,PW,WL,Prey Fish,WL Shiner,Spottail shiner,-30.81993224,12.501
+South,PW,WL,Prey Fish,WL Shiner,Spottail shiner,-28.0948565,12.041
+South,PW,WL,Prey Fish,WL Shiner,Spottail shiner,-30.83473406,12.016
+South,PW,WL,Prey Fish,WL Shiner,Spottail shiner,-29.44308261,12.305
+South,PW,WL,Prey Fish,WL Shiner,Spottail shiner,-29.80589533,12.235
+South,PW,WL,Seston,WL Seston,50,-31.389,1.859
+South,PW,WL,Seston,WL Seston,160,-33.085,8.656
+South,PW,WL,Seston,WL Seston,250,-28.039,4.716

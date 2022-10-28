@@ -1,0 +1,18 @@
+Site,Habitat,Resource,Min,Low,Mid,Top,Max
+Pentwater,DRM,DRM Small Perch,3.2,22.3,34.7,45.2,60.2
+Pentwater,WL,WL Alewife,0.5,5.2,10.5,17.2,32.9
+Pentwater,WL,WL Invertebrates,0.6,5.9,12.1,20.1,39
+Pentwater,WL,WL Seston,2.7,11,15.8,20.6,30.7
+Pentwater,WL,WL Shiners,1,10.5,22.2,35.9,59.6
+Calumet,WL,WL Alewife,7.3,31.3,44.3,54.4,70.1
+Calumet,WL,WL Phrag Inverts,0.6,6.3,13.2,23.1,42.6
+Calumet,WL,WL SAV Inverts,7.7,19.6,26.2,33,47.1
+Calumet,WL,WL Shiners,1.8,10.1,15.4,20.6,30.7
+Little Sturgeon,NS,NS Fish,0.4,3.9,8.8,17.6,43.8
+Little Sturgeon,NS,NS Invertebrates,0.4,4,9.2,17,36.2
+Little Sturgeon,WL,WL Fish,9.5,35,44.4,51.3,63
+Little Sturgeon,WL,WL Invertebrates,5,25.7,35.8,43.1,54.1
+Muskegon,DRM,DRM Seston,1,9.7,19.7,33.2,62.9
+Muskegon,DRM,DRM Shiner,8.3,38.4,52.7,63.4,77.5
+Muskegon,NS,NS Shiner,0.7,6,11.5,18.7,39.8
+Muskegon,WL,WL Seston,1,7.9,13.4,18.5,29.8
